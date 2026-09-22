@@ -1,16 +1,15 @@
-## Hi there 👋
+### English
+Mechatronics & automation engineering student with a strong focus on microelectronics and open-source hardware. I build the lightweight tools I wish I had when I started.
 
-<!--
-**m-baranovsky/m-baranovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Stack:** C, C++, Python.
+* **Focus:** Digital design, embedded systems, and EDA tools.
+* **Current project:** [Klincad](https://github.com/m-baranovsky/klincad) (lightweight circuit design software).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Español
+Estudiante de ingeniería en mecatrónica y automatización con fuerte enfoque en microelectrónica y hardware open-source. Desarrollo herramientas ligeras que me hubiera gustado tener al arrancar.
+
+* **Stack:** C, C++, Python.
+* **Enfoque:** Diseño digital, sistemas embebidos y herramientas EDA.
+* **Proyecto actual:** [Klincad](https://github.com/m-baranovsky/klincad) (software ligero de diseño de circuitos).
